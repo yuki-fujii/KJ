@@ -1,1 +1,6 @@
-<resources></resources>
+<resources>
+    <string name="Administrador">Administrador</string>
+    <string name="ProdutosDisponiveis">Produtos disponíveis</string>
+    <string name="RealizarVenda">Realizar venda</string>
+    <string name="ConsultarComanda">Consultar comanda</string>
+</resources>
